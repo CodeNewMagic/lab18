@@ -1,0 +1,25 @@
+.bg-img1 {
+  width: 100%;
+  height: 80vh;
+  background: #000;
+  background-size: cover;
+  background-image: url("./img/baner3.jpg");
+}
+.bg-img2 {
+  width: 100%;
+  height: 80vh;
+  background: #000;
+  background-size: cover;
+  background-image: url("./img/baner1.jpg");
+}
+.bg-img3 {
+  width: 100%;
+  height: 85vh;
+  background: #000;
+  background-size: cover;
+  background-image: url("./img/baner2.jpg");
+}
+.carousel-indicator {
+  left: 50%;
+  transform: translate(-50%);
+}
